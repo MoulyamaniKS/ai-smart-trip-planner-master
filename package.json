@@ -1,0 +1,23 @@
+{
+  "name": "ai-smart-trip-planner-master",
+  "version": "1.0.0",
+  "description": "Complete A to Z AI Smart Trip Planner Application with Full-Stack Backend, Database, and Responsive UI",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "trip-planner",
+    "travel",
+    "itinerary",
+    "leaflet",
+    "weather",
+    "vlogs",
+    "tour-guides"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
